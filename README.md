@@ -22,11 +22,5 @@ The primary goals of this project are:
 - **R** (optional): Used for additional statistical tests if required.
 - **scikit-learn**, **pandas**, **matplotlib**, and **seaborn**: Key libraries for analysis, visualization, and machine learning.
 
-## Repository Structure
-- `data/`: Contains the dataset and any data pre-processing scripts.
-- `notebooks/`: Jupyter notebooks detailing data exploration, statistical analysis, and model building.
-- `scripts/`: Python scripts for data processing, model training, and evaluation.
-- `results/`: Includes visualizations, analysis outputs, and final report resources.
-
 ## License
 This project is for educational purposes under the STAT 520 course. Please refer to the Kaggle dataset terms of use for data licensing details.
